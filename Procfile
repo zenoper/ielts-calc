@@ -1,0 +1,1 @@
+worker: python ielts_score_bot.py 
